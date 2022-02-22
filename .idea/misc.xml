@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROID/Konten/Pahlawan Nasional/app/src/main/res/drawable/bg_circle_radius_primary.xml" value="0.22" />
+        <entry key="..\:/ANDROID/Konten/Pahlawan Nasional/app/src/main/res/drawable/bg_rounded.xml" value="0.22552083333333334" />
+        <entry key="..\:/ANDROID/Konten/Pahlawan Nasional/app/src/main/res/drawable/bg_search.xml" value="0.22552083333333334" />
+        <entry key="..\:/ANDROID/Konten/Pahlawan Nasional/app/src/main/res/drawable/ic_arrow.xml" value="0.22552083333333334" />
+        <entry key="..\:/ANDROID/Konten/Pahlawan Nasional/app/src/main/res/drawable/ic_back.xml" value="0.22552083333333334" />
+        <entry key="..\:/ANDROID/Konten/Pahlawan Nasional/app/src/main/res/drawable/ic_search.xml" value="0.22552083333333334" />
+        <entry key="..\:/ANDROID/Konten/Pahlawan Nasional/app/src/main/res/layout/activity_detail.xml" value="0.209375" />
+        <entry key="..\:/ANDROID/Konten/Pahlawan Nasional/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/ANDROID/Konten/Pahlawan Nasional/app/src/main/res/layout/list_nama_pahlawan.xml" value="0.209375" />
+        <entry key="..\:/ANDROID/Konten/Pahlawan Nasional/app/src/main/res/layout/toolbar.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
